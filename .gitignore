@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Data files that are created by script 
+data_names.txt
+data_urls.txt
+data_item_ids.txt
